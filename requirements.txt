@@ -6,3 +6,7 @@ openpyxl
 wordcloud
 matplotlib
 geopandas
+folium
+streamlit-folium
+mapclassify
+rtree
